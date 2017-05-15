@@ -1,3 +1,5 @@
 {
-    "enterprise": {}
+    "enterprise": {
+        "key":"value"
+    }
 }
